@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+.ant-show-help-leave {
+  min-height: 0px !important;
+}
+
+
+
+input:focus {
+  border-color: transparent;
+}
